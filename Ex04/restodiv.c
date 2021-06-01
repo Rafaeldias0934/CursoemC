@@ -14,7 +14,7 @@ int main()
 
     resto = x % y;
 
-    printf("Os valores digitado foi %d e %d, O Resto da Divisão de x / y é: %d!\n",x,y,resto);
+    printf("Os valores digitado foi %d e %d, O resto da Divisão de x / y é: %d!\n",x,y,resto);
 
     return 0;
 }
