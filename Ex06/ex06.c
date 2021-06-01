@@ -14,7 +14,7 @@ int main () {
 
     produto = base * altura;
 
-    printf("Os valores digitado foi %d e %d, A Área do retângulo é: %dm²!\n",base,altura,produto);
+    printf("Os valores digitado foi %d e %d, a área do retângulo é: %dm²!\n",base,altura,produto);
 
     return 0;
 }
