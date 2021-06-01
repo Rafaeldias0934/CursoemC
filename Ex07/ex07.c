@@ -1,9 +1,8 @@
 #include<stdio.h>
-int main()
+int main(void)
 { 
   int DiaSem;
-
-
+  
 printf("\n Digite o número de 01 a 07, referente ao dia da semana:\n");
 scanf("%d",&DiaSem);
 
@@ -30,6 +29,6 @@ switch (DiaSem){
     printf("O dia da semana correspondente a %d, é Sábado, Final de Semana..",DiaSem);
     break;
     default :
-    printf ("Número invalido!\n");
+    printf ("Número invalido, por favor digite um número válido!\n");
   }
 }
