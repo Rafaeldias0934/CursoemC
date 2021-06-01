@@ -2,6 +2,7 @@
 int main() 
 {
     int velocidade_media;
+    
     printf("Digite a sua velocidade na viagem em (km/h):\n");
     scanf("%d",&velocidade_media);
 
