@@ -10,6 +10,5 @@ int main () {
     int chute;
     printf("qual é o chute?\n");
     scanf("%d", &chute);
-    printf("Seu chute foi %d\n", chute);
-    
+    printf("Seu chute foi %d\n", chute);  
 }
