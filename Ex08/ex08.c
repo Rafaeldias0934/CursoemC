@@ -23,11 +23,11 @@ scanf("%d",&op);
 switch (op)
 {
 case 1:
-  printf("Sua média Aritmetica é %2.1f:\n ",ma);
+  printf("Sua média Aritmetica é %2.2f:\n ",ma);
   break;
 
 case 2:
-  printf("Sua média Ponderada é %2.1f:\n ",mp);
+  printf("Sua média Ponderada é %2.2f:\n ",mp);
   break;
 
 default:
