@@ -1,12 +1,8 @@
 #include <stdio.h>
 
 int main()
-
 {
-
   float base,altura,area;
-
-   
 
   printf("Calcular a área de um triangulo:\n");
 
@@ -20,8 +16,7 @@ int main()
 
   area = (base * altura) / 2;
 
-  printf(" A Área do triangulo é: %4.2fm²\n",area);
+  printf(" A área do triangulo é: %4.2fm²\n",area);
 
   return 0;
-
 }
