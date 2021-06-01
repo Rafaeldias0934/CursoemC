@@ -17,17 +17,3 @@ int main () {
 
     return 0;
 }
-
-
-/*
-
-    
-
-if (velocidade_media > 110)
-    printf("A velocidade média é %d, então ela é superior a 110km/h.",velocidade_media);
-else
-     printf("A velocidade média é %d, então ela é não superior a 110km/h.",velocidade_media);
- 
- return 0; 
-}
-*/
