@@ -1,0 +1,24 @@
+
+#include <stdio.h>
+
+int main()
+{
+   int i,num,num_impar=0;
+   
+    //printf("Digite um Número <10 e >1:\n");
+    //scanf ("%d",&num);
+    
+    for (i=1;i<=10; i++)
+    {
+       printf("Digite um Número <10 e >1:\n");
+       scanf ("%d",&num);
+       
+       
+        if (num%2!=0);
+        num_impar++;
+    }
+    
+    printf("Os números impares são: %d", num_impar);
+    
+    return 0;
+}
